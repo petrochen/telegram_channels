@@ -1,5 +1,5 @@
 telegram channels
-
+<pre>
 === FPV ===
 https://t.me/djifpvrus
 FPV Барахолка куплю  - https://t.me/joinchat/-iHcTqL9qSIxMGNi
@@ -188,3 +188,4 @@ https://t.me/tinkoffjournal
 https://t.me/t_chemodan
 https://t.me/govoritmoskino
 @free_magazines
+</pre>
